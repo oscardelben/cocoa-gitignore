@@ -1,3 +1,5 @@
 A sample .gitignore file for Cocoa based projects. Taken from http://blog.illuminex.com/2009/10/better-sample-gitignore-file-for-xcode.html
 
 I keep a copy of this on my projects directory, then each time that I start a new project I run: cp /path/to/gitignore my/new/project/.gitignore
+
+Existing project? Check the following StackOverflow question about deleting files that match a new .gitignore: http://stackoverflow.com/questions/1139762/gitignore-file-not-ignoring
