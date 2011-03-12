@@ -16,6 +16,9 @@ dsa_priv.pem
 *.perspectivev3
 *.pbxuser
 
+# Xcode 4 http://stackoverflow.com/questions/49478/git-ignore-file-for-xcode-projects
+xcuserdata
+
 
 # Generated files
 VersionX-revision.h
