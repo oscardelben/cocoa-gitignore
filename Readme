@@ -1,0 +1,3 @@
+A sample .gitignore file for Cocoa based projects. Taken from http://blog.illuminex.com/2009/10/better-sample-gitignore-file-for-xcode.html
+
+I keep a copy of this on my projects drectory, then each time that I start a new project I run: cp /path/to/gitgnore my/new/project/.gitignore
